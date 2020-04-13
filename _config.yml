@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: history
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects:
+    projects: What-To-Watch
     # - repo-name
 
 # social_media:
