@@ -21,9 +21,9 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 12
+  limit: 6
   exclude:
-    archived: true
+    archived: false
     forks: true
     projects: What-To-Watch
     # - repo-name
