@@ -22,9 +22,12 @@ projects:
     - stars
   limit: 24
   exclude:
-    archived: true
+    archived: false
     forks: false
     projects:
+    - saNder2411.github.io
+    - saNder2411-demo-mishka
+    - saNder2411-demo-hosting-wtw
     # - repo-name
 
 # social_media:
